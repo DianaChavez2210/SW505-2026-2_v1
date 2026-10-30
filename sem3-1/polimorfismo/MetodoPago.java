@@ -1,3 +1,3 @@
 interface MetodoPago{
-    void procesar(double monto)
+    void procesar(double monto);
 }
