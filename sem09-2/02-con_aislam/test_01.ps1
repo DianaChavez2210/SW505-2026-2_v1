@@ -1,0 +1,2 @@
+pytest test_calculadora_descuento.py
+pytest test_xxxxx.py
